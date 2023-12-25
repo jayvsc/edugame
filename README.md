@@ -1,1 +1,3 @@
-# edugame
+# Edugame
+
+gra edukacyjna kurwa
